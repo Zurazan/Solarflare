@@ -82,7 +82,6 @@ Abuse prevention, rate limiting, and scope control will be part of the core desi
 
 Nothing is finalized. The following are open design questions:
 
-* Central relay vs hybrid vs peer-to-peer
 * Plugin-level authentication model
 * Message envelope format and size limits
 * Targeting model (direct, scoped, room-based, etc.)
