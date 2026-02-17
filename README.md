@@ -61,6 +61,8 @@ The primitive could enable ideas such as:
 * Experimental cooperative plugin features
 * Controlled integration support for advanced tools
 
+USE IT TO MAKE A FUCKING POKEMON PLUGIN WHERE YOU ENCOUNTER WILD POKEMON INSIDE THE UI BY SIMPLY WALKING AROUND INGAME WITH YOUR CHARACTER AND YOU CAN ACTUALLY BATTLE OTHER PLAYERS AND LEVEL UP AND EVOLVE YOUR POKEMON I WILL MAKE A FUCKING EXCLUSION ON THE STORAGE PART HOLY SHIT
+
 These are examples only.
 The value lies in the transport primitive itself.
 
