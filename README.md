@@ -1,6 +1,6 @@
 # Solarflare
 
-*A constrained messaging primitive for the FFXIV Dalamud plugin ecosystem.*
+*A constrained messaging primitive for the Dalamud plugin ecosystem.*
 
 ---
 
